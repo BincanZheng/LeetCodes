@@ -1,2 +1,3 @@
-# leetcode
-Personal leetcode solutions
+# Some leetcode solutions
+Personal leetcode code records, no detailed explanation...
+个人leetcode代码记录，没有详细的题解。。。
